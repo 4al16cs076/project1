@@ -2,7 +2,7 @@
 
 
 It is a mini project Dairymanagement System  using JSP and mysql
-reqires -> xamp as database
+reqires -> xamp software
         ->  tomcat server 
 sql file included
 for reference Report also inclueded
